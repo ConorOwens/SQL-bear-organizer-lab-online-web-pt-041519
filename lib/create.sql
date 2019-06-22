@@ -4,6 +4,6 @@ create table bears (
   age integer,
   gender text,
   color text,
-  temeprament text,
+  temperament text,
   alive numeric
 );
