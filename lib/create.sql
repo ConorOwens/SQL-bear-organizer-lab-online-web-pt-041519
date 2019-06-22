@@ -5,5 +5,5 @@ age integer,
 gender text,
 color text,
 temeprament text,
-alive boolean,
-)
+alive numeric,
+);
